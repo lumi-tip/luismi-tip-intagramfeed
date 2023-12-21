@@ -1,0 +1,10 @@
+button:focus > .custom-icon{
+    color:#3d3fdd !important;
+}
+
+.nav-tabs .nav-link {
+    background: 0 0;
+    border: none !important;
+    margin-bottom:1px;
+    outline: none !important;
+}
